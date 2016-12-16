@@ -1,0 +1,51 @@
+VERSION 1
+MCOUNT 2
+TCOUNT 2
+OCOUNT 4
+ELCOUNT 1
+FLCOUNT 1
+0,400,-1000
+0,0,0
+0.2, 0.2, 0.2
+Data\\concrete\\concrete.mfl
+Data\\walls\\four_walls.mfl
+Data\\concrete\\concrete.bfl
+Data\\walls\\four_walls.bfl
+concrete_floor
+1,1
+Data\\concrete\\concrete.opf
+Data\\concrete\\concrete.tml
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+brick_wall
+2,2
+Data\\walls\\four_walls.opf
+Data\\walls\\four_walls.tml
+0,1024,0
+0,0,0
+0,0,0
+0,0,0
+sphere_object1
+0,0
+Data\\lights\\sphere_obj.opf
+null
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+sphere_object2
+0,0
+Data\\lights\\sphere_obj.opf
+null
+0,0,0
+0,0,0
+0,0,0
+0,0,0
+Data\\lights\\sun_light.lht
+0,5000,-1000
+0,-1,0
+Data\\lights\\bulb_light.lht
+0,1500,500
+0,-1,0
