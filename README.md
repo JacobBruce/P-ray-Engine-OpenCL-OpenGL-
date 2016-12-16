@@ -1,6 +1,6 @@
 # P-ray Engine (OpenCL+OpenGL)
 
-P-ray Engine is an experimental ray tracing engine for rendering traditional polygon scenes. OpenCL is to compute the frame rendering which is then displayed in an OpenGL window. Interoperability between OpenCL and OpenGL is used so that OpenCL can share memory with OpenGL and write directly to the framebuffer.
+P-ray Engine is an experimental ray tracing engine for rendering traditional polygon scenes. OpenCL is used to compute the frame rendering which is then displayed in an OpenGL window. Interoperability between OpenCL and OpenGL is used so that OpenCL can share memory with OpenGL and write directly to the framebuffer.
 
 The source code currently available is still in the very early stages of development, it is incomplete and has several bugs, but feel free to mess around with it. The method it currently uses to render objects isn't very efficient, it needs to be recoded to apply the 2D acceleration structure discussed in this paper: 
 
